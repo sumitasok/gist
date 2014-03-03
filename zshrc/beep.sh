@@ -1,3 +1,4 @@
+# http://www.cyberciti.biz/faq/how-to-read-time-in-shell-script/
 function print_done_time()
 {
   echo -e "done at ${Yel} `date`"

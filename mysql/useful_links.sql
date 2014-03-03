@@ -1,0 +1,3 @@
+-- http://stackoverflow.com/questions/12439353/mysqldump-one-insert-statement-for-each-data-row
+-- http://stackoverflow.com/questions/6093921/import-of-8gb-mysql-dump-takes-a-long-time
+-- https://dev.mysql.com/doc/refman/5.1/en/mysqldump.html
