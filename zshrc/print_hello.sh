@@ -1,2 +1,2 @@
-echo 'getting custom scripts scripts'
+echo 'getting custom scripts'
 

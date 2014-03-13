@@ -1,10 +1,12 @@
 alias gcom="git commit -m"
 alias gca="git commit -am"
-alias gitpro="git pull --rebase origin"
-alias gitpo="git push origin"
-alias gitrcont="git add .;git rebase --continue"
-alias gitl="git log --pretty=format:'%h %an %s' --graph"
+alias gpro="git pull --rebase origin"
+alias gpo="git push origin"
+alias grcont="git add .;git rebase --continue"
+alias gl="git log --pretty=format:'%h %an %s' --graph"
 
+# http://git-scm.com/book/en/Git-Basics-Viewing-the-Commit-History
+# a lot of ways to configure the git log
 
 function cb()
 {

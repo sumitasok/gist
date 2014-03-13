@@ -5,4 +5,5 @@ source ~/arena/gist/zshrc/git.sh
 source ~/arena/gist/zshrc/django.sh
 source ~/arena/gist/zshrc/beep.sh
 source ~/arena/secret_gist/bangthetable.sh
+source ~/arena/gist/zshrc/py.sh
 source ~/arena/gist/zshrc/print_done.sh
