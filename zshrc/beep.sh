@@ -15,4 +15,3 @@ function beep_long_process
 afplay ~/arena/gist/assets/button-7.wav;
 print_done_time
 }
-
