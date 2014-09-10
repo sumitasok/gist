@@ -6,4 +6,5 @@ source /Users/SumitAsok/Dropbox/arena/gist/zshrc/django.sh
 source /Users/SumitAsok/Dropbox/arena/gist/zshrc/beep.sh
 source /Users/SumitAsok/Dropbox/arena/gist/zshrc/py.sh
 source /Users/SumitAsok/Dropbox/arena/gist/zshrc/note.sh
+source /Users/SumitAsok/Dropbox/arena/gist/zshrc/go.sh
 source /Users/SumitAsok/Dropbox/arena/gist/zshrc/print_done.sh
