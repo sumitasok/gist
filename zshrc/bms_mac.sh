@@ -5,7 +5,7 @@ function set_gopath_here
 
 function set_gopath_mice
 {
-  export GOPATH=/Users/SumitAsok/Dropbox/arena/bms/documentation
+  export GOPATH=/Users/SumitAsok/Dropbox/Arena/bms/documentation
 }
 
 function set_goroot_here
